@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c79dc39509d3f3d4fb9843fde304cbc5",
+    "revision": "4fcddc61e7c9164747a9b6cb527b9fb7",
     "url": "/RPS-Game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RPS-Game/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "5b6c53b088f3465ebba3",
+    "revision": "0391ae76f6db8672bc73",
     "url": "/RPS-Game/static/css/main.cf39c8fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RPS-Game/static/js/2.39f1fb89.chunk.js"
   },
   {
-    "revision": "5b6c53b088f3465ebba3",
-    "url": "/RPS-Game/static/js/main.312104e1.chunk.js"
+    "revision": "0391ae76f6db8672bc73",
+    "url": "/RPS-Game/static/js/main.661bbe8e.chunk.js"
   },
   {
     "revision": "1a7d76301152f735b872",
