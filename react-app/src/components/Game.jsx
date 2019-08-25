@@ -77,7 +77,6 @@ export default class Game extends Component {
     const state = this.state;
     return (
       <div className="wrapper">
-        <h1>Test</h1>
         <Header></Header>
 
         <Container className="text-center">
