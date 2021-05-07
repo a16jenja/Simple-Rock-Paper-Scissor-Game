@@ -1,3 +1,5 @@
-# Simple-Rock-Paper-Scissor-Game
+# Simple Rock-Paper-Scissor Game
 
-Created with React
+A simple rock-paper-scissors game that was created with React.
+
+You can try it out here: https://a16jenja.github.io/RPS-Game/
